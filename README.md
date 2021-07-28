@@ -1,16 +1,20 @@
-### Hi there 👋
+### ¡Hola a todos! Mi nombre es Jeisson 👋
 
-<!--
-**jeissongomezdev/jeissongomezdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Soy estudiante autodidacta apasionado por crear soluciones por medio de la tecnología
 
-Here are some ideas to get you started:
+### Contactame!:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="bottom" alt="capdesis.com" width="22px" src="https://cdn.icon-icons.com/icons2/1154/PNG/512/1486564415-globe_81515.png" />][website]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
+<br />
+
+## Mis estadisticas:
+    
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jeissongomezdev&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeissongomezdev&show_icons=true&theme=tokyonight)
+
+<br />
+
+[website]: https://capdesis.com/
+[linkedin]: https://www.linkedin.com/in/jeissongomezdev/
