@@ -1,4 +1,4 @@
-# # ¡Hola a todos! Mi nombre es Jeisson Gómez <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+# ¡Hola a todos! Mi nombre es Jeisson Gómez <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 Soy Frontend Developer, actualmente estoy trabajando para cambiar el mundo del internet creando las herramientas del futuro.
 
