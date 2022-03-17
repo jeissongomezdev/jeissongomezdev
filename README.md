@@ -4,10 +4,10 @@ Soy Frontend Developer, actualmente estoy trabajando para cambiar el mundo del i
 
 ## Sobre mí ✌️
 
-📚 Learning | 🎮 Gaming
+📚 Autodidacta
 
 - :earth_americas: Vivo en Bogotá, Colombia sin embargo me gustaría viajar para conocer nuevas culturas.
-- 📚 En la actualidad estoy aprendiendo React y mejorando mi habilidades con JavaScript.
+- 📚 En la actualidad estoy aprendiendo React y mejorando mis habilidades con JavaScript.
 
 ## Contact me :mailbox_with_no_mail:
 
@@ -20,16 +20,14 @@ Soy Frontend Developer, actualmente estoy trabajando para cambiar el mundo del i
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeissongomezdev&show_icons=true&theme=tokyonight)
 
-### My Tech Stack
-
-#### Languages
+#### Lenguajes
 
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![SASS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
 
-#### Tools and Others
+#### Herramientas y otros
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
@@ -39,5 +37,4 @@ Soy Frontend Developer, actualmente estoy trabajando para cambiar el mundo del i
 <br />
 
 [website]: https://jeissongomez.com/
-
 [linkedin]: https://www.linkedin.com/in/jeissongomezdev/
